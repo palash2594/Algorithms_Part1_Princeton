@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5b5e2f2-a6c9-4d2a-90c2-228edced138f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Week 2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmsPart1/Week1/Percolation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmsPart1/Week1/PercolationStats.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmsPart1/Week1/QuickFindTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmsPart1/Week1/QuickFindUF.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmsPart1/Week1/QuickUnionImprovements.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmsPart1/Week1/QuickUnionTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmsPart1/Week1/QuickUnionUF.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmsPart1/Week2/FixedCapacityArrayImplementation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmsPart1/Week2/LinkedListQueueImplementation$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmsPart1/Week2/LinkedListQueueImplementation$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmsPart1/Week2/LinkedListQueueImplementation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmsPart1/Week2/LinkedListStackImplementation$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmsPart1/Week2/LinkedListStackImplementation$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmsPart1/Week2/LinkedListStackImplementation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmsPart1/Week2/ResizingArrayImplementation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmsPart1/Week2/Tester.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week2/Assignment/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week2/DijkstraTwoStackAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week2/FixedCapacityArrayImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week2/GenericLLQueueImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week2/LinkedListQueueImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week2/LinkedListStackImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week2/ResizingArrayImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week2/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,7 +38,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Week2/Assignment/RandomizedQueue.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
@@ -90,6 +64,30 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
               <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithms/Week 2.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="253">
+                <caret line="163" column="17" selection-start-line="163" selection-start-column="17" selection-end-line="163" selection-end-column="17" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="413">
+                <caret line="356" column="166" selection-start-line="356" selection-start-column="166" selection-end-line="356" selection-end-column="166" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -125,6 +123,7 @@
         <option value="$PROJECT_DIR$/src/Week2/Assignment/Permutation.java" />
         <option value="$PROJECT_DIR$/src/Week2/Assignment/Tester.java" />
         <option value="$PROJECT_DIR$/src/Week2/Assignment/RandomizedQueue.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -164,13 +163,6 @@
               <item name="AlgorithmsPart1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Week2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmsPart1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmsPart1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Week2" type="462c0819:PsiDirectoryNode" />
-              <item name="Assignment" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -270,15 +262,16 @@
       <workItem from="1560548986390" duration="740000" />
       <workItem from="1560878725993" duration="2790000" />
       <workItem from="1561088231898" duration="6789000" />
-      <workItem from="1561258875353" duration="4610000" />
+      <workItem from="1561258875353" duration="4752000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14929000" />
+    <option name="totallyTimeSpent" value="15071000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="23" width="1440" height="833" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -289,8 +282,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.32928476" />
+      <window_info anchor="bottom" id="Find" order="2" visible="true" weight="0.32928476" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32928476" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.3994602" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -394,16 +387,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="17">
-            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Week2/LinkedListQueueImplementation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -462,16 +445,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
           <caret line="62" selection-start-line="62" selection-end-line="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/Week 2.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="253">
-            <caret line="163" column="17" selection-start-line="163" selection-start-column="17" selection-end-line="163" selection-end-column="17" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -535,6 +508,26 @@
             <element signature="e#3647#3648#0" expanded="true" />
             <element signature="e#3712#3713#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/Week 2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="253">
+            <caret line="163" column="17" selection-start-line="163" selection-start-column="17" selection-end-line="163" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="413">
+            <caret line="356" column="166" selection-start-line="356" selection-start-column="166" selection-end-line="356" selection-end-column="166" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
